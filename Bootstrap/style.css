@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+    height: 30vh;
+}
+.custom{
+    justify-content: center;
+    text-align: center;
+    width: 45vh;
+}
