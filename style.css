@@ -1,0 +1,31 @@
+h1{
+    letter-spacing: 50px;
+    text-align: center;
+    height: 30vh;
+}
+h2{
+    letter-spacing: 30px;
+    text-align: center;
+    height: 20vh;
+}
+header {
+    background-image: url(/media/wFyaq1x6wLQKNz2XhM1rxhmk2WD.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.img-card{
+    height: 22vh;
+}
+.logo{
+    height: 18vh;
+   padding: 2vh;
+}
+ul{
+    list-style-type: none;
+}
+.foot-custom{
+    height: 20vh;
+}
+.logo-foot{
+    height: 7vh;
+}
